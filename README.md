@@ -14,6 +14,8 @@ I come from the VFX industry and I'm currently expanding my skills in **Python, 
 
 I enjoy solving problems, building tools, and turning complex data or visuals into something clear and useful.
 
+## You can check my update lighting demo reel here 👇
+### https://www.vimeo.com/edgarcast/demoreel
 ---
 
 ## 🛠 Tools & Technologies

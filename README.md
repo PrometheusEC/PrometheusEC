@@ -24,6 +24,9 @@ I enjoy solving problems, building tools, and turning complex data or visuals in
 ![Katana](https://img.shields.io/badge/Katana-VFX-lightgrey)
 ![RenderMan](https://img.shields.io/badge/RenderMan-Pixar-red)
 ![Nuke](https://img.shields.io/badge/Nuke-Compositing-darkblue)
+![Autodesk Maya](https://img.shields.io/badge/Maya-Autodesk-0696D7?logo=autodesk)
+![Arnold](https://img.shields.io/badge/Arnold-Renderer-111111)
+![Houdini](https://img.shields.io/badge/Houdini-SideFX-F28C28)
 
 - Lighting, lookdev, rendering optimization  
 - Color theory, cinematic lighting, compositing
